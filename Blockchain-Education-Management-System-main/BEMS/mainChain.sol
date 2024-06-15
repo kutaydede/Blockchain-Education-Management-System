@@ -172,3 +172,4 @@ function DiplomaSorgula(string memory _tcNo) public view returns (string[6] memo
         return string(buffer);
     }
 }
+
